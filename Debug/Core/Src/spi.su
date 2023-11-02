@@ -1,0 +1,2 @@
+../Core/Src/spi.c:15:6:st7789_spi_init	4	static
+../Core/Src/spi.c:34:6:st7789_spi_transmit	16	static
